@@ -1,1 +1,1 @@
-
+This Python program creates a Tic Tac Toe game using Tkinter for the GUI. Players can choose between single-player (against the computer) or multiplayer modes. It features a Minimax algorithm for optimal AI moves in single-player mode. The game checks for wins or draws and allows restarting, updating the board dynamically based on player actions.
