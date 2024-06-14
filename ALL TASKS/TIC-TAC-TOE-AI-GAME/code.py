@@ -10,7 +10,7 @@ root.resizable(0, 0)
 # Set up frames and title label
 frame1 = Frame(root)
 frame1.pack()
-titleLabel = Label(frame1, text="Tic Tac Toe", font=("arial", 26), bg="MidnightBlue", width=16)
+titleLabel = Label(frame1, text="Tic Tac Toe", font=("sans", 26), bg="Green", width=16)
 titleLabel.grid(row=0, column=0)
 
 optionFrame = Frame(root, bg="beige")
