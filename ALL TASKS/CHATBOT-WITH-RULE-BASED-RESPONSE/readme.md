@@ -1,1 +1,1 @@
-
+This project features a straightforward rule-based chatbot coded in Python. The bot chats with users by replying to different prompts like greetings, identity questions, jokes, weather inquiries, and more. Responses are predefined, triggered by keywords or phrases in user input. The script leverages basic Python functions to capture, process input with conditionals, and generate fitting replies. Users can chat with the bot until they type 'bye' to end. The code is extendable and customizable for enhanced chatbot functionality and smarter responses.
